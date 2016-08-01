@@ -1,0 +1,4 @@
+/home/ttnd/AEM-Workspace/headless-cms/bundle/src/main/java/com/ttnd/headless/impl/HeadlessResourceResolverServiceImpl.java
+/home/ttnd/AEM-Workspace/headless-cms/bundle/src/main/java/com/ttnd/headless/api/HeadlessResourceResolverService.java
+/home/ttnd/AEM-Workspace/headless-cms/bundle/src/main/java/com/ttnd/headless/impl/ConvertResourceToJSON.java
+/home/ttnd/AEM-Workspace/headless-cms/bundle/src/main/java/com/ttnd/headless/servlet/ResourceToJSONServlet.java

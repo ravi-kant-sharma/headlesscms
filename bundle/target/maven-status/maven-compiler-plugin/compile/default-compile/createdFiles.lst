@@ -1,0 +1,3 @@
+com/ttnd/headless/api/HeadlessResourceResolverService.class
+com/ttnd/headless/impl/HeadlessResourceResolverServiceImpl.class
+com/ttnd/headless/impl/ConvertResourceToJSON.class
