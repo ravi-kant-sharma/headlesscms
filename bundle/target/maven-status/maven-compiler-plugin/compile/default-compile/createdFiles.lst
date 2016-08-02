@@ -1,3 +1,6 @@
-com/ttnd/headless/api/HeadlessResourceResolverService.class
-com/ttnd/headless/impl/HeadlessResourceResolverServiceImpl.class
 com/ttnd/headless/impl/ConvertResourceToJSON.class
+com/ttnd/headless/api/HeadlessResourceResolverService.class
+com/ttnd/headless/servlet/ResourceToJSONServlet$1.class
+com/ttnd/headless/impl/HeadlessResourceResolverServiceImpl.class
+com/ttnd/headless/servlet/ResourceToJSONServlet.class
+com/ttnd/headless/servlet/ResourceToJSONServlet$2.class
